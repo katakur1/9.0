@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <EditText
+        android:id="@+id/etBox1"
+        android:text="@string/etBox1"
+        style="@style/etb"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        />
+    <EditText
+        android:id="@+id/etBox2"
+        android:text="@string/etBox2"
+        style="@style/etb"
+        android:layout_width="match_parent"
+        android:layout_height="5dp"
+        />
+    <EditText
+        android:id="@+id/etBox3"
+        android:text="@string/etBox3"
+        style="@style/etb"
+        android:layout_width="match_parent"
+        android:layout_height="5dp"
+        android:inputType="number"
+        />
+</LinearLayout>

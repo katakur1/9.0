@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">app_seting</string>
+
+    <string name="etBox1">EditBox1</string>
+    <string name="etBox2">EditBox2</string>
+    <string name="etBox3">EditBox3</string>
+</resources>
